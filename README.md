@@ -21,7 +21,7 @@ A Quote generator that you can share with everyone through Twitter
 ## Demo
 
 <p>
-<img src="assets/Quote Generator Demo.gif" alt="Quote Generator Demo" />
+<img src="assets/Quote Generator Demo.gif" alt="Quote Generator Project Demo" />
 </p>
 
 ---
